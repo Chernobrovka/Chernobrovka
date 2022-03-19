@@ -25,11 +25,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> 
 
-### :man_technologist: About Me :
+### __:man_technologist: About Me :__
 
-I am web developer
+__I am web developer__
 
-### :hammer_and_wrench: Languages and Tools :
+### __:hammer_and_wrench: Languages and Tools :__
 
 <div id="langs" align="center" font-weight="bold">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
