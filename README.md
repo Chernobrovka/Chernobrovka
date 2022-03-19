@@ -18,7 +18,7 @@
   </a>
 </div>
 <div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?Chernobrovka" alt=""/>  
+  <img src="https://komarev.com/ghpvc/?username=Chernobrovka&style=flat-square&color=blue" alt=""/>  
 </div>  
 
 # Contact information:
