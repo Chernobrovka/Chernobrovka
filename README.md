@@ -1,6 +1,6 @@
 # Dmitry Homan
 
-**Trainee Web Developer**
+**Web Developer**
 ****
 
 # Contact information:
