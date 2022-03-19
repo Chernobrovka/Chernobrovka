@@ -38,7 +38,6 @@ I am web developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Git" **alt="C" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Git" **alt="C" width="40" height="40"/>
 </div>
 
 # Contact information:
@@ -77,43 +76,3 @@ I am web developer
 
 * Russian
 * English (A2)
-
-****
-
-# Code Example:
-
-**The solution to the task CodeWars:**
-
-**Task( 6 Kui ):** You will be given a list of objects. Each object has type, material, and possibly secondMaterial. The existing materials are: paper, glass, organic, and plastic.
-
-Your job is to sort these objects across the 4 recycling bins according to their material (and secondMaterial if it's present), by listing the type's of objects that should go into those bins.
-
-```
-function recycle(array) {
-  var arr_materails=['paper','glass','organic','plastic'];  
-  var arr_baskets=[];
-  for(let j=0;j<4;j++) {
-    arr_baskets.push(new Array());
-  }
-  array.forEach(function callback(elem, i, arr) 
-  {
-    for(let j=0;j<4;j++) 
-    {
-      var needAddToBasket = false;
-      if (elem.material === arr_materails[j])  {
-        needAddToBasket = true;
-      }
-      if (elem.hasOwnProperty ('secondMaterial')) {
-        if (elem.secondMaterial === arr_materails[j]) {
-          needAddToBasket = true;
-        }
-      }
-      if(needAddToBasket) {
-        arr_baskets[j].push(elem.type);
-      }
-    }
-  });
-  return arr_baskets;
-}
-
-```
