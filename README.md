@@ -1,7 +1,7 @@
-# Dmitry Homan
-
-**Web Developer**
-
+<div class="Name" align="center">
+  <p> <b>Dmitry Homan</b> </p>
+  <h1> <b>Web Developer</b>  
+</div>  
 ****
 
 <div id="header" align="center">
