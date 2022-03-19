@@ -19,7 +19,10 @@
 </div>
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Chernobrovka&style=flat-square&color=blue" alt=""/>  
-</div>  
+</div> 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 # Contact information:
 
