@@ -1,5 +1,7 @@
 # Dmitry Homan
 
+** Web Developer **
+
 ****
 
 <div id="header" align="center">
@@ -24,10 +26,6 @@
   </h1>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> 
-
-### :man_technologist: About Me :
-
-**I am web developer**
 
 ### :hammer_and_wrench: Languages and Tools :
 
