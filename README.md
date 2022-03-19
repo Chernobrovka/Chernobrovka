@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://web.telegram.org/@Chernobrovka1">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-URL">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
