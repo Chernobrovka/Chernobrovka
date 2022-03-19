@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-URL">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
