@@ -42,6 +42,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chernobrovka&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chernobrovka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 # Contact information:
 
 * E-mail: gomhu72@gmail.com
