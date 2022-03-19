@@ -26,6 +26,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> 
 
+### 🧔‍♂️_technologist: About Me :
+
 # Contact information:
 
 * E-mail: gomhu72@gmail.com
