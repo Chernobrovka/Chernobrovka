@@ -1,6 +1,6 @@
 # Dmitry Homan
 
-** Web Developer **
+**Web Developer**
 
 ****
 
