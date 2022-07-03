@@ -1,6 +1,5 @@
 <div class="Name" align="center">
-  <h1> <b>Dmitry Homan</b>
-  <h2> <b>Web Developer</b>  
+  <h1> <b>Dmitry Homan</b> 
 </div>  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
