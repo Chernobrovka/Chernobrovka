@@ -18,11 +18,6 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Chernobrovka&style=flat-square&color=blue" alt=""/>  
   
-### :hammer_and_wrench: Languages and Tools :
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chernobrovka&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chernobrovka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,33 +27,3 @@
 * Telegram: https://web.telegram.org/@Chernobrovka1
 * LinkedIn: https://www.linkedin.com/in/dima-goman-9818a7229/
 
-****
-# Education:
-
-* Belarusian State Technology University
-* 2020-2024
-* Automation Engeneer
-
-****
-
-# Skills:
-
-* HTML5, CSS3
-* JavaScript
-* Git, GitHub, Basics of OOP
-* C/C++ (for Embedded systems), Electronics
-
-****
-
-# Courses:
-
-* JavaScript Manual on learnjavascript.ru
-* JS / Html / CSS on CodeBasics
-* RS-School stage 1 (in progress)
-
-****
-
-# Languages:
-
-* Russian
-* English (A2)
